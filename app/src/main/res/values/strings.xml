@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string-array name="blood_type">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="panch">
+
+        <item>Locality 1</item>
+        <item>Locality 2</item>
+        <item>Locality 3</item>
+        <item>Locality 4</item>
+
+
+    </string-array>
+</resources>
