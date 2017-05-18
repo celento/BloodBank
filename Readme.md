@@ -8,7 +8,7 @@ Blood Bank is an Android app that uses Firebase Realtime Database to collect and
 * google-services.json file generated for your application.
 * Android SDK (This version is written for SDK 25 as target.)
 
-NB: A stable internet connection is requrired for first build. 
+NB: A stable internet connection is required for first build. 
 
 ## Build Instructions ##
 
