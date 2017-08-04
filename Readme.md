@@ -21,5 +21,5 @@ NB: This is the default ./gradle.properties file.
 Incase of any build error, please make sure you are connected to a stable Internet. First build time will depend upon your machine and Internet speed.
 
 ## Apps built using this Project ##
-Midipp - [Google Play](https://play.google.com/store/apps/details?id=com.reonsaji.bloodbank&hl=en)
-         [GitHub](https://github.com/Webloud/Midipp)
+Midipp - [Google Play](https://play.google.com/store/apps/details?id=com.reonsaji.midipp)
+         [GitHub](https://github.com/Webloud/Midipp)
