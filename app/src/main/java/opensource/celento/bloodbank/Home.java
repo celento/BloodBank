@@ -18,16 +18,13 @@ public class Home extends AppCompatActivity {
         add.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent s=new Intent(Home.this,MainActivity.class);
-                startActivity(s);
-                finish();
+                startActivity(new Intent(Home.this,MainActivity.class));
             }
         });
         search.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent a=new Intent(Home.this,searchview.class);
-                startActivity(a);
+                startActivity(new Intent(Home.this,searchview.class));
             }
         });
     }
