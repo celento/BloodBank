@@ -18,7 +18,7 @@ You first need to generate the local.properties (replace YOUR_SDK_DIR with your 
     $ cp ./gradle.properties-example ./gradle.properties
 
 NB: This is the default ./gradle.properties file.
-Incase of any build error, please make sure you are connected to a stable Internet. First build time will depend upon your machine and Internet speed.
+Incase of any build error, please make sure you are connected to a stable Internet. The first build time will depend upon your machine and Internet speed.
 
 ## Apps built using this Project ##
 Midipp - [Google Play](https://play.google.com/store/apps/details?id=com.reonsaji.midipp)
